@@ -5,8 +5,8 @@
 
 
 ## DISCORD
-> C++ (https://dpp.dev)
+> C++ (dpp.dev)
 
 
 ## WEB
-> NGINX (HTML, PHP 8.0 - 8.1)
+> NGINX (HTML, PHP 8.0-8.1)
